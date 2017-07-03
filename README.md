@@ -1,6 +1,14 @@
 # microbit-menu
 A custom menu for the BBC micro:bit
 
-To compile manually, go to http://python.microbit.org/editor.html and paste the contents of the most recent python file. Then press the download button and flash to your micro:bit.
+## Installation
+* Download the latest hex file
+* Locate the file and copy it to your micro:bit
 
-**AS OF NOW, NO RELEASE HAS BEEN TESTED.**
+## Manual Compilation + Installation
+* Download the latest python script
+* Go to http://python.microbit.org/editor.html and paste the contents of the python script
+* Press the save button at the top
+* Locate the file and copy it to your micro:bit
+
+**AS OF RIGHT NOW, NO RELEASE HAS BEEN TESTED.**
