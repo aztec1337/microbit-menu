@@ -1,6 +1,10 @@
 # microbit-menu
 A custom menu for the BBC micro:bit
 
+## Usage
+* Press the A button to scroll through the menu
+* Press the B button to use the currently selected tool
+
 ## Installation
 * Download the latest hex file
 * Locate the file and copy it to your micro:bit
