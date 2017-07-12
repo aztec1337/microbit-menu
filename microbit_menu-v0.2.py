@@ -1,5 +1,5 @@
 '''
-	MicrobitMenu v0.15
+	MicrobitMenu v0.2
 
 	Author: aztec1337
 	Github: https://github.com/aztec1337/microbit-menu/
