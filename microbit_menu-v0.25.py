@@ -18,19 +18,19 @@ while True:
         if void == 0:
             diceImage = Image("90009:00000:00900:00000:90009")
             display.show(diceImage)
-            sleep(500)
+            sleep(100)
             void = 1
     elif menu == 1:
         if void == 0:
             letterImage = Image("90000:90000:90000:90000:99990")
             display.show(letterImage)
-            sleep(500)
+            sleep(100)
             void = 1
     elif menu == 2:
         if void == 0:
             colourImage = Image("09990:90000:90000:90000:09990")
             display.show(colourImage)
-            sleep(500)
+            sleep(100)
             void = 1
     if button_a.is_pressed():
         menu += 1
