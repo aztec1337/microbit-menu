@@ -1,3 +1,12 @@
+'''
+	MicrobitMenu v0.15
+
+	Author: aztec1337
+	Github: https://github.com/aztec1337/microbit-menu/
+
+	Licensed under the GNU General Public License Version 3 (GNU GPL v3),
+	available at: http://www.gnu.org/licenses/gpl-3.0.txt
+'''
 from microbit import *
 import random
 menuAmount = 1  # Start at 0
