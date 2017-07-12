@@ -28,7 +28,7 @@ while True:
             void = 1
     elif menu == 2:
         if void == 0:
-            colourImage = Image("09999:90000:90000:90000:09999")
+            colourImage = Image("09990:90000:90000:90000:09990")
             display.show(colourImage)
             sleep(500)
             void = 1
