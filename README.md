@@ -15,4 +15,4 @@ A custom menu for the BBC micro:bit
 * Press the save button at the top
 * Locate the file and copy it to your micro:bit
 
-**AS OF RIGHT NOW, NO RELEASE HAS BEEN TESTED.**
+**AS OF RIGHT NOW, NO RELEASE BUT v0.25 HAS BEEN TESTED.**
