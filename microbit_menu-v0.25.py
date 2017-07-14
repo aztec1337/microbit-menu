@@ -45,4 +45,4 @@ while True:
             display.show(random.choice(letters))  # Choose random of alphabet
         elif menu == 2:
             colours = ["RED", "BLUE", "GREEN", "YELLOW", "PINK", "BROWN", "WHITE", "BLACK", "PURPLE"]
-            display.scroll(random.choice(colours))
+            display.scroll(random.choice(colours), delay = 100)
